@@ -1,0 +1,14 @@
+# Compiled source files
+*.out
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
